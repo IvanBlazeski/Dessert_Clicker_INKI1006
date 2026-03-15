@@ -1,7 +1,5 @@
 # 🍰 Dessert Clicker – Android Activity Lifecycle
 
-# 🍰 Dessert Clicker – Android Activity Lifecycle
-
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Language](https://img.shields.io/badge/Language-Kotlin-purple)
 ![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-blue)
