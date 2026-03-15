@@ -78,13 +78,13 @@ This ensures that the following values persist after rotation:
 # 🖼 Screenshots
 
 ## Main Screen
-![Main Screen](screenshots/Screenshot 2026-03-15 220453.png)
+![Main Screen](screenshots/screenshots/Screenshot 2026-03-15 220453.png)
 
 ## Clicking Desserts
-![Dessert Click](screenshots/Screenshot 2026-03-15 220528.png)
+![Dessert Click](screenshots/screenshots/Screenshot 2026-03-15 220528.png)
 
 ## Screen Rotation Handling
-![Rotation](screenshots/Screenshot 2026-03-15 220554.png)
+![Rotation](screenshots/screenshots/Screenshot 2026-03-15 220554.png)
 
 ## Logcat Lifecycle Events
 ![Logcat](screenshots/Screenshot 2026-03-15 214651.png,Screenshot 2026-03-15 214516.png,Screenshot 2026-03-15 214419.png,Screenshot 2026-03-15 202858.png)
